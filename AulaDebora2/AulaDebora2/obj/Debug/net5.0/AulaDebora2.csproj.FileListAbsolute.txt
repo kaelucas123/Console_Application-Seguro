@@ -1,0 +1,16 @@
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\bin\Debug\net5.0\AulaDebora2.exe
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\bin\Debug\net5.0\AulaDebora2.deps.json
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\bin\Debug\net5.0\AulaDebora2.runtimeconfig.json
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\bin\Debug\net5.0\AulaDebora2.runtimeconfig.dev.json
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\bin\Debug\net5.0\AulaDebora2.dll
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\bin\Debug\net5.0\AulaDebora2.pdb
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\obj\Debug\net5.0\AulaDebora2.csproj.AssemblyReference.cache
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\obj\Debug\net5.0\AulaDebora2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\obj\Debug\net5.0\AulaDebora2.AssemblyInfoInputs.cache
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\obj\Debug\net5.0\AulaDebora2.AssemblyInfo.cs
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\obj\Debug\net5.0\AulaDebora2.csproj.CoreCompileInputs.cache
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\obj\Debug\net5.0\AulaDebora2.dll
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\obj\Debug\net5.0\refint\AulaDebora2.dll
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\obj\Debug\net5.0\AulaDebora2.pdb
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\obj\Debug\net5.0\AulaDebora2.genruntimeconfig.cache
+C:\Users\Estudo\source\repos\AulaDebora2\AulaDebora2\obj\Debug\net5.0\ref\AulaDebora2.dll
